@@ -30,6 +30,8 @@ export default function LandingPage() {
                 height={600}
                 className="absolute top-0 left-0 w-full h-full object-cover"
             />
+
+
             <div className="relative z-10 bg-black bg-opacity-40 text-white py-20">
               <h1 className="text-5xl font-bold mb-6">Crystal Clear Pools, Crystal Clear Service</h1>
               <p className="text-xl mb-10 max-w-2xl mx-auto">Experience the difference with Remedy Pool Services. We keep your pool pristine, so you can dive into relaxation.</p>
